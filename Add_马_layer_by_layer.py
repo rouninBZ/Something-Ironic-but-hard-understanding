@@ -1,5 +1,7 @@
 print("How to 噌噌地加马？")
 j=0
+i="King"
+print('%10s :%20s' % (i,"马"))
 for i in ["Duke","Marquis","Earl","Viscount","Baron","Knight"]:
     j+=1
     print("噌~")
